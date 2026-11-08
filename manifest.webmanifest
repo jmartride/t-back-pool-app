@@ -1,6 +1,6 @@
 {
-  "name": "T-BACK Pool Team Fine Tracker",
-  "short_name": "T-BACK Pool",
+  "name": "Pool Fines",
+  "short_name": "Pool Fines",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
